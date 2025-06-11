@@ -1,4 +1,4 @@
-# IS3750 RaspberryPi Trafic Light Example
+# IS3750 RaspberryPi Traffic Light Example
 
 This example demonstrates how to use the IS3750 Addressable LED Controller Chip with a Raspberry Pi single-board computer using Python. 
 
